@@ -1,0 +1,10 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "CloudFormation template to launch an EC2 instance"
+
+Resources:
+MyEC2Instance:
+Type: AWS::EC2::Instance
+Properties:
+InstanceType: t2.micro
+KeyName: my-key-pair
+ImageId: ami-0bdd88bd06d
