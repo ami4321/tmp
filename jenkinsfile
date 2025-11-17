@@ -10,6 +10,7 @@ pipeline {
     stage("local") {
       environment {
         // BAR will only be available in this stage
+        // for stage
         BAR = "STAGE"
       }
       steps {
