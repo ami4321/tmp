@@ -7,4 +7,4 @@ Type: AWS::EC2::Instance
 Properties:
 InstanceType: t2.micro
 KeyName: my-key-pair
-ImageId: ami-0bdd88bd06d
+ImageId: ami-0bdd88b0000000
