@@ -1,5 +1,5 @@
 #  comment it
 
-# for sonar.yaml use 
+# Dummy test
 
 #
