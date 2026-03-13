@@ -3,7 +3,6 @@
 # Dummy test
 
 # Dummy test 2
-
 # Dummy test 3
 # Dummy test 4
 # Dummy test 5
